@@ -9,7 +9,7 @@ Date: 2020-09-04
 
 
 ## Sketches and Photos
-
+![GitHub Logo](C:\Users\sergi\Pictures\Background\capture.png)
 
 ## Modules, Tools, Source Used Including Attribution
 
