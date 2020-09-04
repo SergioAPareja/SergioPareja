@@ -1,8 +1,8 @@
 #  Skill Name
 
-Author: FirstName LastName
+Author: Sergio Pareja
 
-Date: YYYY-MM-DD
+Date: 2020-04-09
 -----
 
 ## Summary
@@ -15,6 +15,6 @@ Date: YYYY-MM-DD
 
 
 ## Supporting Artifacts
-
+https://www.youtube.com/watch?v=MncQKVuhYsw
 
 -----
