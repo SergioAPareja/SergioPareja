@@ -1,12 +1,12 @@
 #  Skill Name
 
-Author: FirstName LastName
+Author: Pareja Sergio
 
-Date: YYYY-MM-DD
+Date: 2020-04-09
 -----
 
 ## Summary
-
+Completed
 
 ## Sketches and Photos
 
