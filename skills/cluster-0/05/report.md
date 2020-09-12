@@ -1,12 +1,12 @@
 #  Skill Name
 
-Author: FirstName LastName
+Author: Sergio Pareja
 
-Date: YYYY-MM-DD
+Date: 2020-09-12
 -----
 
 ## Summary
-
+Got the blink and hello world to worl
 
 ## Sketches and Photos
 
@@ -15,6 +15,6 @@ Date: YYYY-MM-DD
 
 
 ## Supporting Artifacts
-
+https://www.youtube.com/watch?v=X4p2HKA-q2Q
 
 -----
