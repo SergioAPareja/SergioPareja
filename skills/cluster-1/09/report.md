@@ -1,6 +1,6 @@
 #  Skill Name
 
-Author: FirstName LastName
+Author: Sergio Pareja
 
 Date: 2020-9-22
 -----
