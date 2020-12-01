@@ -1,12 +1,12 @@
-#  Skill Name
+#  Battery Monitor
 
-Author: FirstName LastName
+Author: Sergio Pareja
 
-Date: YYYY-MM-DD
+Date: 2020-8-10
 -----
 
 ## Summary
-
+Measured voltage on a I2C display
 
 ## Sketches and Photos
 
