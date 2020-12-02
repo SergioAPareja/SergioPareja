@@ -1,6 +1,6 @@
 #  Skill 31 (HC-SR04) alternative sensor
 
-Author: Paul Adan
+Author: Sergio Pareja
 
 Date: 2020-11-20
 -----
@@ -21,6 +21,6 @@ Example code from Espressif
 https://esp32.com/viewtopic.php?f=17&t=5787
 
 ## Supporting Artifacts
-https://www.youtube.com/watch?v=KRGHJxRem50
+
 
 -----
