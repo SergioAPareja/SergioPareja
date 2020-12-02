@@ -1,6 +1,6 @@
-#  Skill 23
+#  Skill 32
 
-Author: Paul Adan
+Author: Sergio Pareja
 
 Date: 2020-12-1
 -----
@@ -24,6 +24,6 @@ Timer example
 https://github.com/espressif/esp-idf/tree/178b122/examples/peripherals/timer_group
 
 ## Supporting Artifacts
-https://www.youtube.com/watch?v=w4zCCoN3zv4
+
 
 -----
