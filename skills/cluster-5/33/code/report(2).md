@@ -1,6 +1,6 @@
 #  Skill 33
 
-Author: Paul Adan
+Author: Sergio Pareja
 
 Date: 2020-12-1
 -----
@@ -18,6 +18,6 @@ The example code from WHIZZZZER
 http://whizzer.bu.edu/briefs/design-patterns/dp-pid
 
 ## Supporting Artifacts
-https://www.youtube.com/watch?v=XfLx4zUy-Xk
+
 
 -----
